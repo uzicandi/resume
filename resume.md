@@ -16,6 +16,13 @@
 [쇼핑 템플릿](https://github.com/uzicandi/shopping-template)  
 [검색사이트 자동완성 만들기](https://github.com/uzicandi/bytedegree-work-1)  
 
-#### SASS 연습  
-[SASS 연습](https://github.com/uzicandi/styling-with-sass)  
 
+
+
+## 자잘하게 공부한 것들  
+
+[SASS 연습](https://github.com/uzicandi/styling-with-sass)  
+[Browser APIs](https://github.com/uzicandi/browserAPIs101)  
+[JWT](https://github.com/uzicandi/2020-TIL/blob/master/%5BJWT%5D%20JSON%20Web%20Token.md)  
+[Javascript ES6+](https://github.com/uzicandi/TIL/tree/master/ES6-Study)  
+ 
