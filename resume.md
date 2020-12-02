@@ -25,4 +25,5 @@
 [Browser APIs](https://github.com/uzicandi/browserAPIs101)  
 [JWT](https://github.com/uzicandi/2020-TIL/blob/master/%5BJWT%5D%20JSON%20Web%20Token.md)  
 [Javascript ES6+](https://github.com/uzicandi/TIL/tree/master/ES6-Study)  
+[React, Redux, Typescript](https://www.notion.so/React-Basic-5280f1b3afb2477788a4caeab8374e00)
  
