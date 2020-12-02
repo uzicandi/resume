@@ -6,11 +6,11 @@
 [나의 독서기록 사이트](https://github.com/uzicandi/my-reading-record)
 
 #### React, Redux, Javascript를 이용한 프로젝트  
-[지출기록부 만들기](https://github.com/uzicandi/bytedegree-project-2)  
-[댓글창 만들기](https://github.com/uzicandi/redux-comment-project)  
+[API서버와 연동하는 댓글서비스 구현하기](https://github.com/uzicandi/redux-comment-project)  
 
-#### React, Javascript를 이용한 프로젝트  
+#### React, Javascript, Styled-component를 이용한 프로젝트  
 [영화소개 페이지 만들기](https://github.com/uzicandi/introduce-movie-app)  
+[지출기록부 만들기](https://github.com/uzicandi/bytedegree-project-2)  
 
 #### HTML, CSS, JS 로만 만든 미니프로젝트  
 [쇼핑 템플릿](https://github.com/uzicandi/shopping-template)  
