@@ -15,6 +15,7 @@
 #### HTML, CSS, JS 로만 만든 미니프로젝트  
 [쇼핑 템플릿](https://github.com/uzicandi/shopping-template)  
 [검색사이트 자동완성 만들기](https://github.com/uzicandi/bytedegree-work-1)  
+[당근찾기게임](https://github.com/uzicandi/browserAPIs101)
 
 
 
